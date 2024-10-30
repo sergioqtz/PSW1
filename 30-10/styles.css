@@ -1,6 +1,8 @@
 h1{
-    color: red ; background-position-x: center;
+    color: red ; text-align: center;
 }
 p {
-    border-style: solid ; color: rgb(0, 0, 0);
+    text-align: left ;
+    border-style: solid ; color: rgb(0, 0, 0); 
+    background-color: rgb(169, 169, 175);
 }
