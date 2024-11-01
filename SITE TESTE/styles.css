@@ -1,0 +1,11 @@
+h1{color: black; text-align: center;}
+img.img1{padding-left: 400pxs;}
+img.img2{text-align: left; }
+
+div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+
